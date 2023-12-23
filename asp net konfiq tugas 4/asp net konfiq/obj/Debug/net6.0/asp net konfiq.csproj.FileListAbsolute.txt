@@ -1,0 +1,30 @@
+C:\Users\ASUS\source\repos\asp net konfiq\asp net konfiq\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ASUS\source\repos\asp net konfiq\asp net konfiq\bin\Debug\net6.0\appsettings.json
+C:\Users\ASUS\source\repos\asp net konfiq\asp net konfiq\bin\Debug\net6.0\asp net konfiq.staticwebassets.runtime.json
+C:\Users\ASUS\source\repos\asp net konfiq\asp net konfiq\bin\Debug\net6.0\asp net konfiq.exe
+C:\Users\ASUS\source\repos\asp net konfiq\asp net konfiq\bin\Debug\net6.0\asp net konfiq.deps.json
+C:\Users\ASUS\source\repos\asp net konfiq\asp net konfiq\bin\Debug\net6.0\asp net konfiq.runtimeconfig.json
+C:\Users\ASUS\source\repos\asp net konfiq\asp net konfiq\bin\Debug\net6.0\asp net konfiq.dll
+C:\Users\ASUS\source\repos\asp net konfiq\asp net konfiq\bin\Debug\net6.0\asp net konfiq.pdb
+C:\Users\ASUS\source\repos\asp net konfiq\asp net konfiq\obj\Debug\net6.0\asp net konfiq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\asp net konfiq\asp net konfiq\obj\Debug\net6.0\asp net konfiq.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\asp net konfiq\asp net konfiq\obj\Debug\net6.0\asp net konfiq.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\asp net konfiq\asp net konfiq\obj\Debug\net6.0\asp net konfiq.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\asp net konfiq\asp net konfiq\obj\Debug\net6.0\asp net konfiq.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\source\repos\asp net konfiq\asp net konfiq\obj\Debug\net6.0\asp net konfiq.RazorAssemblyInfo.cache
+C:\Users\ASUS\source\repos\asp net konfiq\asp net konfiq\obj\Debug\net6.0\asp net konfiq.RazorAssemblyInfo.cs
+C:\Users\ASUS\source\repos\asp net konfiq\asp net konfiq\obj\Debug\net6.0\staticwebassets\msbuild.asp net konfiq.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS\source\repos\asp net konfiq\asp net konfiq\obj\Debug\net6.0\staticwebassets\msbuild.build.asp net konfiq.props
+C:\Users\ASUS\source\repos\asp net konfiq\asp net konfiq\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.asp net konfiq.props
+C:\Users\ASUS\source\repos\asp net konfiq\asp net konfiq\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.asp net konfiq.props
+C:\Users\ASUS\source\repos\asp net konfiq\asp net konfiq\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ASUS\source\repos\asp net konfiq\asp net konfiq\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ASUS\source\repos\asp net konfiq\asp net konfiq\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ASUS\source\repos\asp net konfiq\asp net konfiq\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ASUS\source\repos\asp net konfiq\asp net konfiq\obj\Debug\net6.0\scopedcss\bundle\asp net konfiq.styles.css
+C:\Users\ASUS\source\repos\asp net konfiq\asp net konfiq\obj\Debug\net6.0\scopedcss\projectbundle\asp net konfiq.bundle.scp.css
+C:\Users\ASUS\source\repos\asp net konfiq\asp net konfiq\obj\Debug\net6.0\asp net konfiq.dll
+C:\Users\ASUS\source\repos\asp net konfiq\asp net konfiq\obj\Debug\net6.0\refint\asp net konfiq.dll
+C:\Users\ASUS\source\repos\asp net konfiq\asp net konfiq\obj\Debug\net6.0\asp net konfiq.pdb
+C:\Users\ASUS\source\repos\asp net konfiq\asp net konfiq\obj\Debug\net6.0\asp net konfiq.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\asp net konfiq\asp net konfiq\obj\Debug\net6.0\ref\asp net konfiq.dll
